@@ -16,6 +16,8 @@
   "bugs": {
     "url": "https://github.com/daninsky1/launch_breaker/issues"
   },
-  "homepage": "https://github.com/daninsky1/launch_breaker#readme"
+  "homepage": "https://github.com/daninsky1/launch_breaker#readme",
+  "devDependencies": {
+    "electron": "^35.2.1"
+  }
 }
-g
