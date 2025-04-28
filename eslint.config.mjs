@@ -11,8 +11,6 @@ export default defineConfig([
         rules: {
             semi: ["error", "always"],
             "no-var": "error",
-            "no-unused-vars": "off",
-            "no-global-assign": "off",
             "guard-for-in": "error",
             "@typescript-eslint/no-unused-vars": [
                 "error",
