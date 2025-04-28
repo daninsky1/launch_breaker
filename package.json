@@ -1,0 +1,21 @@
+{
+  "name": "launch_breaker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel S. S.",
+  "license": "MIT",
+  "description": "Launcher for software",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daninsky1/launch_breaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daninsky1/launch_breaker/issues"
+  },
+  "homepage": "https://github.com/daninsky1/launch_breaker#readme"
+}
+g
