@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -18,6 +19,8 @@
   },
   "homepage": "https://github.com/daninsky1/launch_breaker#readme",
   "devDependencies": {
-    "electron": "^35.2.1"
+    "electron": "^35.2.1",
+    "eslint": "^9.25.1",
+    "globals": "^16.0.0"
   }
 }
