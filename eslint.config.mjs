@@ -12,22 +12,8 @@ export default defineConfig([
             semi: ["error", "always"],
             "no-var": "error",
             "guard-for-in": "error",
-            "@typescript-eslint/no-unused-vars": [
-                "error",
-                {
-                    vars: "all",
-                    args: "after-used",
-                    ignoreRestSiblings: true,
-                },
-            ],
-            "prefer-const": [
-                "error",
-                {
-                    destructuring: "all",
-                },
-            ],
-            "node/no-callback-literal": "off",
-            "node/no-deprecated-api": "off",
+            "object-curly-spacing": "always",
+            "max-lines": ["error", {"max": 120}],
         },
     },
 ]);
