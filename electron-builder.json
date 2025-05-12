@@ -1,0 +1,12 @@
+{
+  "appId": "launch-breaker",
+  "files": ["dist-electron", "dist-react"],
+  "icon": "resources/drawing-line-art-push-button.png",
+  "linux": {
+    "target": "AppImage",
+    "category": "Games"
+  },
+  "win": {
+    "target": ["portable", "msi"]
+  }
+}
